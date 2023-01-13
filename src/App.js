@@ -75,8 +75,8 @@ function App() {
           <a href="https://www.facebook.com/login/"> <img src="./fb.png" alt="" srcset="" /></a>
           <a href="https://twitter.com/i/flow/login"> <img src="./twit.png" alt="" srcset="" /> </a>
         </div>
-        <div className="options" >Don't Have an Account? <a href="http://" className="new">Create new now!</a></div>
-        <div className="options" >By signing up, you are agree with our <a href="http://" className="terms"> Terms and Conditions</a></div>
+        <div className="options" >Don't Have an Account? <a href="#" className="new">Create new now!</a></div>
+        <div className="options" >By signing up, you are agree with our <a href="#" className="terms"> Terms and Conditions</a></div>
       </div>  </div>
   );
 }

@@ -1,0 +1,3 @@
+Hi. I am Athar Shaikh.
+This React app is a login and registration form with animation. It uses the "react-spring" library to animate the sliding of the forms and the change of the bottom border and font weight of the login and register buttons. The app also includes a "Forgot Password" link, and options to login with Google, Facebook, and Twitter. The app also has a link to create a new account and a link to the terms and conditions.
+checkout the deployed site --> https://login-signup-app.netlify.app/
